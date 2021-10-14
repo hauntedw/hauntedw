@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [linkedin]: https://www.linkedin.com/in/edward-hinds/
-[gmail]: hindsedward@gmail.com
+[gmail]: mailto:hindsedward@gmail.com
