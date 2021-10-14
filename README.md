@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/edward-hinds/
 [gmail]: mailto:hindsedward@gmail.com
-[soundcloud]: https://soundcloud.com/hikarih
+[soundcloud]: https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg
