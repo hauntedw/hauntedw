@@ -4,7 +4,7 @@
 - In school I am currently learning about data structures and C. Outside of school I'm learning more about C# through Unity and C++ through Unreal Engine.
   Hoping to learn more about web development in the future.
 - Willing to collaborate on anything just hoping to get some experience working with others!
-- 2020-2021 Goal: Create line of simple VSTs free to use for other creators.
+- 2021-2022 Goal: Create line of simple VSTs free to use for other creators.
 
 ### Contact me:
 [<img align="left" alt="Edward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
