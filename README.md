@@ -9,7 +9,7 @@
 ### Contact me:
 [<img align="left" alt="Edward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Edward | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
-[<img align="left" alt="Edward | Soundcloud" width="22px" src="https://developers.soundcloud.com/assets/powered_by_large_white-9c2af6a93ad2b1c541f423d9e9045980.png"/>][soundcloud]
+[<img align="left" alt="Edward | Soundcloud" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg"/>][soundcloud]
 <!---
 hauntedw/hauntedw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/edward-hinds/
 [gmail]: mailto:hindsedward@gmail.com
-[soundcloud]: https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg
+[soundcloud]: https://soundcloud.com/hikarih
